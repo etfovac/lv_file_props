@@ -1,7 +1,6 @@
-# lv_file_props
+# LabVIEW File Properties Editor 
+[![DOI](https://zenodo.org/badge/536732123.svg)](https://zenodo.org/badge/latestdoi/536732123)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv_file_props/blob/main/LICENSE) 
-
-LabVIEW File Properties Editor
 
 VI Scripting tool for reading and editing file properties (execution, reentrancy, filename, compiled code, etc).  
 It filters files by selected property for selected folder and its subfolders.  
@@ -18,7 +17,7 @@ Published also as an [NI Example](https://forums.ni.com/t5/Example-Code/LabVIEW-
 [Examples](https://github.com/etfovac/lv_file_props/wiki/Examples)  
 [References](https://github.com/etfovac/lv_file_props/wiki/References)  
 
-### LabVIEW File Properties Editor  
+### Overview: Screenshots  
 <img src="./graphics/Project.png" alt="Project"> 
 <b>Main.vi</b> is an Example that targets the repo's folder and subfolders, including the test files.  
  
@@ -32,7 +31,7 @@ Use <b>Readout File Properties, Filtered.vi</b> to readout file properties of so
 <img src="./graphics/Readout Filtered Prealloc Clones FP.png" alt="Readout Filtered Prealloc Clones FP">  
 <img src="./graphics/Readout Filtered Prealloc Clones BD.png" alt="Readout Filtered Prealloc Clones BD">  
 
-### Reentrancy  
+### Notes: Reentrancy  
 To write (set) file's Reentrancy it needs to be loaded, recompiled and saved.    
 <img src="./graphics/Write Reentrancy To VIs BD.png" alt="Write Reentrancy To VIs BD">  
 <img src="./graphics/Write Reentrancy Type BD.png" alt="Write Reentrancy Type BD">  
