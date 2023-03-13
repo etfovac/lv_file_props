@@ -8,7 +8,7 @@ Supported files:
 - .vi 
 - .ctl
 
-Published also as an [NI Example](https://forums.ni.com/t5/Example-Code/LabVIEW-File-Properties-Editor/ta-p/4289814)
+Published also as NI Community's [Example-Code/LabVIEW-File-Properties-Editor](https://forums.ni.com/t5/Example-Code/LabVIEW-File-Properties-Editor/ta-p/4289814)
 
 ### Table of Contents (Wiki)
 [Wiki Home](https://github.com/etfovac/lv_file_props/wiki)  
